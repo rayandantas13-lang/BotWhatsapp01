@@ -1,0 +1,16 @@
+{
+  "name": "vsbot-groq",
+  "version": "2.0.0",
+  "description": "WhatsApp Bot integrado com Llama 3 via Groq",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "groq-sdk": "^0.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
